@@ -1,0 +1,15 @@
+Andrea Kacarska 161063		
+
+2. mkdir lab1
+   cd lab1 - se kreira folder vo kojshto ke go inicijalizirame git repozitoriumot 
+3. notepad l1.txt
+4. git init
+5. git add l1.txt
+   git commit -m "Initial commit"
+   
+6. git add l1.txt
+   git commit -m "modify l1.txt"
+9. git remote add origin https://github.com/AndreaKacarska/NovRepozitorium.git
+10. git push -u origin master
+11. git reset --soft HEAD^
+12. git checkout -b logging

@@ -1,0 +1,6 @@
+$ git log
+commit a077bde7f5dc1ea7218c2007ca93d83a68e797e0 (HEAD -> logging, origin/logging, master)
+Author: andrea.kacarska@students.finki.ukim.mk <andrea.kacarska@students.finki.ukim.mk>
+Date:   Wed Apr 4 17:14:05 2018 +0200
+
+    Initial commit
